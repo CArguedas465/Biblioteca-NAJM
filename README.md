@@ -1,6 +1,8 @@
 # Biblioteca-NAJM
 Sistema de gestión de préstamos para la Biblioteca Ficticia NAJM, utilizando arboles binarios y listas enlazadas como estructuras de almacenamiento. Se implementan métodos de búsqueda para recorrer las estructuras, encontrar elementos y mover los elementos contenidos dentro de los nodos entre cada estructura (para simular el flujo del ciclo de vida de un préstamo bibliotecario). 
 
+Las credenciales de ingreso están hard coded; es la única parte del sistema que no utiliza una estructura de almacenamiento para gestionar la información. Se puede revisar el archivo "Login.java" para obtener las credenciales.
+
 El sistema también tiene la capacidad de cambiar de lenguaje a partir de la utilización de archivos de propiedad (.properties). Se utiliza el JDK 1.8, ya que este incluye javafx; librería gráfica que fue utilizada para el desarrollo del proyecto. 
 
 ![Screenshot 2022-04-09 123237](https://user-images.githubusercontent.com/88214335/162587555-a8bc82fd-dab6-4bbe-bc8e-4c6e7a98a35f.png)
