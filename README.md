@@ -5,14 +5,6 @@ El sistema también tiene la capacidad de cambiar de lenguaje a partir de la uti
 
 Capturas del sistema: 
 
-[url=https://postimg.cc/Z9wDQ7P1][img]https://i.postimg.cc/Z9wDQ7P1/Screenshot-2022-04-09-123237.png[/img][/url]
-
-[url=https://postimg.cc/K4ks951H][img]https://i.postimg.cc/K4ks951H/Screenshot-2022-04-09-123301.png[/img][/url]
-
-[url=https://postimg.cc/K3MqRZX2][img]https://i.postimg.cc/K3MqRZX2/Screenshot-2022-04-09-123450.png[/img][/url]
-
-[url=https://postimg.cc/N9VCsKzD][img]https://i.postimg.cc/N9VCsKzD/Screenshot-2022-04-09-123459.png[/img][/url]
-
-[url=https://postimg.cc/PpNFnW2N][img]https://i.postimg.cc/PpNFnW2N/Screenshot-2022-04-09-123508.png[/img][/url]
+https://i.postimg.cc/K3MqRZX2/Screenshot-2022-04-09-123450.png
 
 
